@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnadd" type="id" />
+    <item name="num2" type="id" />
+    <item name="addResult" type="id" />
+    <item name="num1" type="id" />
+</resources>

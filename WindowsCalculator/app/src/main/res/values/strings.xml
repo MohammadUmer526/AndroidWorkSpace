@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WindowsCalculator</string>
+    <string name="textview">TextView</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="Buttonsbt">button -</string>
+    <string name="button5">5</string>
+    <string name="Button4">Button4</string>
+    <string name="buttonadd">+</string>
+    <string name="_1">1</string>
+    <string name="Button14">*</string>
+    <string name="Button15">-</string>
+</resources>

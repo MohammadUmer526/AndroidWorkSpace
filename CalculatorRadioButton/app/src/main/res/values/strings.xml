@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CalculatorRadioButton</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="radiobutton3">RadioButton</string>
+    <string name="name">Name</string>
+    <string name="name2">Name</string>
+    <string name="radiobutton6">RadioButton</string>
+    <string name="radiobutton7">RadioButton</string>
+    <string name="button2">Button</string>
+    <string name="RadioGroup">*</string>
+    <string name="Radia">-</string>
+    <string name="submit">Submit</string>
+    <string name="name11">Name</string>
+    <string name="name12">Name</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton8">RadioButton</string>
+    <string name="radiobutton9">RadioButton</string>
+</resources>

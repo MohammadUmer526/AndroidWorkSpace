@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DMAS Calculator</string>
+    <string name="Number1" />
+    <string name="add">Add</string>
+    <string name="divide">Divide</string>
+    <string name="name" />
+    <string name="textview1" />
+    <string name="textview">DMAS Calculator</string>
+</resources>

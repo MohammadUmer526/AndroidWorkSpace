@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.example.muhammadumer.hellotoast.MainActivity">
+
+    <Button
+        android:id="@+id/button_label_toast"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:onClick="showToast"
+        android:text="@string/button_label_toast"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/show_count"
+        android:layout_width="match_parent"
+        android:layout_height="299dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#FFFF00"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:text="0"
+        android:textSize="160dp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText,SpUsage" />
+
+    <Button
+        android:id="@+id/button_count"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:onClick="countUp"
+        android:text="Count"
+        tools:ignore="HardcodedText,InefficientWeight"
+        android:layout_weight="0.15" />
+
+
+</LinearLayout>

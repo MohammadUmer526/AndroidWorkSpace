@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.muhammadumer.windowscalculator.MainActivity"
+    tools:layout_editor_absoluteY="0dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="7"
+        tools:ignore="HardcodedText,MissingConstraints,RtlHardcoded"
+        tools:layout_editor_absoluteY="106dp"
+        tools:layout_editor_absoluteX="16dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8"
+        tools:ignore="HardcodedText,MissingConstraints"
+        android:layout_marginStart="32dp"
+        tools:layout_editor_absoluteY="106dp"
+        tools:layout_editor_absoluteX="136dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9"
+        tools:ignore="HardcodedText,MissingConstraints,RtlHardcoded"
+        android:layout_marginStart="43dp"
+        tools:layout_editor_absoluteY="106dp"
+        tools:layout_editor_absoluteX="267dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        tools:ignore="HardcodedText,MissingConstraints,RtlHardcoded"
+        android:layout_marginStart="38dp"
+        tools:layout_editor_absoluteY="106dp"
+        tools:layout_editor_absoluteX="393dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6"
+        tools:ignore="HardcodedText,MissingConstraints"
+        tools:layout_editor_absoluteY="296dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button5"
+        tools:ignore="MissingConstraints"
+        android:layout_marginStart="110dp"
+        tools:layout_editor_absoluteY="482dp"
+        tools:layout_editor_absoluteX="110dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:text="4"
+        tools:ignore="HardcodedText,MissingConstraints,RtlHardcoded"
+        android:layout_marginStart="198dp"
+        android:layout_marginEnd="195dp"
+        tools:layout_editor_absoluteY="270dp"
+        tools:layout_editor_absoluteX="198dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonadd"
+        tools:ignore="MissingConstraints,RtlHardcoded"
+        android:layout_marginStart="35dp"
+        tools:layout_editor_absoluteY="328dp"
+        tools:layout_editor_absoluteX="321dp" />
+
+</android.support.constraint.ConstraintLayout>

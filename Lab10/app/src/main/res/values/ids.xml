@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nextb" type="id" />
+    <item name="grp" type="id" />
+    <item name="Question" type="id" />
+</resources>
